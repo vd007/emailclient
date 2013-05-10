@@ -1,0 +1,10 @@
+C:\Users\varun\Downloads\projectvb\EmailClient0525\EmailClient\bin\Debug\EmailClient.exe
+C:\Users\varun\Downloads\projectvb\EmailClient0525\EmailClient\bin\Debug\EmailClient.pdb
+C:\Users\varun\Downloads\projectvb\EmailClient0525\EmailClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\varun\Downloads\projectvb\EmailClient0525\EmailClient\obj\Debug\EmailClient.Form1.resources
+C:\Users\varun\Downloads\projectvb\EmailClient0525\EmailClient\obj\Debug\EmailClient.frmAddAttachment.resources
+C:\Users\varun\Downloads\projectvb\EmailClient0525\EmailClient\obj\Debug\EmailClient.Properties.Resources.resources
+C:\Users\varun\Downloads\projectvb\EmailClient0525\EmailClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\varun\Downloads\projectvb\EmailClient0525\EmailClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\varun\Downloads\projectvb\EmailClient0525\EmailClient\obj\Debug\EmailClient.exe
+C:\Users\varun\Downloads\projectvb\EmailClient0525\EmailClient\obj\Debug\EmailClient.pdb

@@ -1,0 +1,18 @@
+F:\Users\Chico\AppData\Local\Temporary Projects\EmailClient\bin\Release\EmailClient.exe
+F:\Users\Chico\AppData\Local\Temporary Projects\EmailClient\bin\Release\EmailClient.pdb
+F:\Users\Chico\AppData\Local\Temporary Projects\EmailClient\obj\Release\ResolveAssemblyReference.cache
+F:\Users\Chico\AppData\Local\Temporary Projects\EmailClient\obj\Release\EmailClient.Form1.resources
+F:\Users\Chico\AppData\Local\Temporary Projects\EmailClient\obj\Release\EmailClient.frmAddAttachment.resources
+F:\Users\Chico\AppData\Local\Temporary Projects\EmailClient\obj\Release\EmailClient.Properties.Resources.resources
+F:\Users\Chico\AppData\Local\Temporary Projects\EmailClient\obj\Release\EmailClient.csproj.GenerateResource.Cache
+F:\Users\Chico\AppData\Local\Temporary Projects\EmailClient\obj\Release\EmailClient.exe
+F:\Users\Chico\AppData\Local\Temporary Projects\EmailClient\obj\Release\EmailClient.pdb
+F:\Users\Chico\Desktop\delfolder\EmailClient\EmailClient\obj\Release\EmailClient.exe
+F:\Users\Chico\Desktop\delfolder\EmailClient\EmailClient\obj\Release\EmailClient.pdb
+F:\Users\Chico\Desktop\delfolder\EmailClient\EmailClient\bin\Release\EmailClient.exe
+F:\Users\Chico\Desktop\delfolder\EmailClient\EmailClient\bin\Release\EmailClient.pdb
+F:\Users\Chico\Desktop\delfolder\EmailClient\EmailClient\obj\Release\ResolveAssemblyReference.cache
+F:\Users\Chico\Desktop\delfolder\EmailClient\EmailClient\obj\Release\EmailClient.Form1.resources
+F:\Users\Chico\Desktop\delfolder\EmailClient\EmailClient\obj\Release\EmailClient.frmAddAttachment.resources
+F:\Users\Chico\Desktop\delfolder\EmailClient\EmailClient\obj\Release\EmailClient.Properties.Resources.resources
+F:\Users\Chico\Desktop\delfolder\EmailClient\EmailClient\obj\Release\EmailClient.csproj.GenerateResource.Cache
